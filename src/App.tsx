@@ -5,7 +5,7 @@ import poster2 from './assets/chubaka.jpg'
 import poster3 from './assets/dogs.jpg'
 import poster4 from './assets/dyno.jpg'
 import poster5 from './assets/planets.jpg'
-import { getRandomColor, shuffleArray } from './utils/fhelpers'
+import { getRandomColor, shuffleArray } from './utils/helpers'
 
 const imagesArray = [poster1, poster2, poster3, poster4, poster5]
 const seconds = 52
