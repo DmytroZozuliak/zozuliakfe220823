@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/zozuliakfe220823/static/css/main.85d9ba9f.css",
+    "main.js": "/zozuliakfe220823/static/js/main.e8bb6d8a.js",
+    "static/media/planets.jpg": "/zozuliakfe220823/static/media/planets.5edf5ad32592454b0b8a.jpg",
+    "static/media/dyno.jpg": "/zozuliakfe220823/static/media/dyno.cccaf150e6833b009261.jpg",
+    "static/media/cats.jpg": "/zozuliakfe220823/static/media/cats.e2383e9ad36ee59ed196.jpg",
+    "static/media/dogs.jpg": "/zozuliakfe220823/static/media/dogs.5558919496a6ec6f01b5.jpg",
+    "static/media/chubaka.jpg": "/zozuliakfe220823/static/media/chubaka.082a04fa94ae24c63e95.jpg",
+    "index.html": "/zozuliakfe220823/index.html",
+    "main.85d9ba9f.css.map": "/zozuliakfe220823/static/css/main.85d9ba9f.css.map",
+    "main.e8bb6d8a.js.map": "/zozuliakfe220823/static/js/main.e8bb6d8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85d9ba9f.css",
+    "static/js/main.e8bb6d8a.js"
+  ]
+}
